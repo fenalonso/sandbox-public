@@ -15,3 +15,8 @@ i have cloned this file. and made some changes.
 more changes
 
 And now I've edited this file on the `main`-branch.
+
+
+...
+
+And now I've edited this file on the `main`-branch. **I've added some text to this line now from the branch `conflicting-instructions`**
